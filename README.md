@@ -1,5 +1,5 @@
 # Political-News-Analysis
-
+課程107-2 文字探勘與機器學習 學生：沙育民 學籍：財碩一 學號：r07723031
 In this project, we analysis the political news between 2018-07-01 and 2018-12-31 from various media.
 
 The code is written in [Python3](https://www.python.org) with [jupyter notebook](https://jupyter.org/).
